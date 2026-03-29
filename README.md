@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm mamu minokamo
 
-<!--
-**superdoccimo/superdoccimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infrastructure & AI tooling developer based in Minokamo, Japan.
 
-Here are some ideas to get you started:
+I build practical tools that bridge AI services, DevOps workflows, and everyday automation. Many of my projects are developed in collaboration with AI assistants.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+| Project | Description |
+|---|---|
+| [audiocraftdocker](https://github.com/superdoccimo/audiocraftdocker) | Docker configs for Meta AudioCraft/MusicGen with multiple CUDA versions |
+| [figma-mcp-free](https://github.com/superdoccimo/figma-mcp-free) | Free Figma MCP tool for extracting designs and generating code |
+| [notebooklm-tui](https://github.com/superdoccimo/notebooklm-tui) | Zero-dependency CLI toolkit for NotebookLM workspace backup/restore |
+| [discord-openclaw-relay](https://github.com/superdoccimo/discord-openclaw-relay) | LAN bridge for Discord bot and OpenClaw Gateway cross-host deployment |
+
+## Tech Stack
+
+- **Languages:** Python, TypeScript, Shell, PowerShell
+- **Infrastructure:** Docker, PXE, VHDX, FFmpeg
+- **AI/ML:** AudioCraft, Ollama, OpenClaw, MCP
+- **Platforms:** Linux, Windows, GitHub Actions
+
+## Links
+
+- [minokamo.tokyo](https://minokamo.tokyo)
+- [vibelsd.com](https://vibelsd.com)
