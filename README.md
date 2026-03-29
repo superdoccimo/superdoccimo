@@ -23,4 +23,7 @@ I build practical tools that bridge AI services, DevOps workflows, and everyday 
 ## Links
 
 - [minokamo.tokyo](https://minokamo.tokyo)
-- [vibelsd.com](https://vibelsd.com)
+- [minokamo.xyz](https://minokamo.xyz)
+- [ehrigite.com](https://ehrigite.com)
+- [betelgeuse.work](https://betelgeuse.work)
+- [YouTube](https://www.youtube.com/@doccimo)
